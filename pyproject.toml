@@ -41,7 +41,10 @@ disable = [
 
     # actually disable
     "too-few-public-methods",
-    "duplicate-code"
+    "duplicate-code",
+
+    "consider-using-f-string",
+    "unspecified-encoding"
 ]
 
 [build-system]
